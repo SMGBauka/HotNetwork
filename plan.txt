@@ -17,7 +17,6 @@
 //	Create Account
 //	Login
 // ----------------------------------//
-//If i've account then
 //
 //	Profile:
 //	Edit Account:
