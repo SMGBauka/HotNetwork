@@ -3,10 +3,10 @@
 
 int main()
 {
-	Accounter account;
+	std::unique_ptr<System> sys = std::make_unique<Accounter>();
 	SystemColor(color::def);
 	while (1)
 	{
-		account.Start();
+		sys.Start();
 	}
 }
