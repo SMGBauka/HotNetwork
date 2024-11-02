@@ -33,5 +33,5 @@
 - Create Post
 - Show Post
 - Edit Post
--		Delete Post
+-	Delete Post
 // ----------------------------------//
