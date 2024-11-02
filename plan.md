@@ -34,4 +34,3 @@
 - Show Post
 - Edit Post
 -	Delete Post
-// ----------------------------------//
