@@ -80,7 +80,14 @@ protected:
 
 };
 
-class Accounter : protected Social_Network
+class System
+{
+public:
+virtual void Start() = 0;
+}
+
+
+class Accounter : public System, protected Social_Network
 {
 	bool			CheckUser(string&, string&);
 	int				AccountIndex = Empty;
@@ -130,7 +137,7 @@ public:
 	//			Anymore
 	//---------------------------*
 	
-	void			Start();
+	void			Start()         override;
 	void			ProfileMenu();
 	virtual void	FriendList()		override;
 	virtual int		GetAccountSize()	override;
