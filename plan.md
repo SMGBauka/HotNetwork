@@ -13,11 +13,13 @@
 - Edit SN Option
 ---
 ##### Start Programm
-- Create Account
-- Login
+```C++
+-> Create Account
+-> Login
+```
 ---
 ##### Profile:
-- Edit Account:
+-  Edit Account:
 - Edit Nickname
 - Edit Name
 - Edit Age
@@ -25,11 +27,11 @@
 - Edit Gmail
 - Edit Description
 - Delete Account
-- Search:
+-  Search:
 - Search Human's
 - Populary List
 - Friend List
-- Post's:
+-  Post's:
 - Create Post
 - Show Post
 - Edit Post
