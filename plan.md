@@ -1,6 +1,5 @@
-// ----------------------------------//
 #	Plan:
-// ----------------------------------//
+---
 #### Menu List
 - Account Creator
 - Social Network:
@@ -12,12 +11,11 @@
 - 						Edit Account's
 - 						Delete Account's
 - 						Edit SN Option
-// ----------------------------------//
+---
 ##### Start Programm
 - Create Account
 - 	Login
-// ----------------------------------//
-//
+---
 ##### Profile:
 - Edit Account:
 - 		Edit Nickname
