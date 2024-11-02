@@ -3,7 +3,7 @@
 #### Menu List
 - Account Creator
 - Social Network:
-- Where safe:
+-   Where safe:
 - Post's
 - Account's
 - Account Count
@@ -19,7 +19,7 @@
 ```
 ---
 ##### Profile:
--  Edit Account:
+-    Edit Account:
 - Edit Nickname
 - Edit Name
 - Edit Age
@@ -27,11 +27,11 @@
 - Edit Gmail
 - Edit Description
 - Delete Account
--  Search:
+-    Search:
 - Search Human's
 - Populary List
 - Friend List
--  Post's:
+-    Post's:
 - Create Post
 - Show Post
 - Edit Post
